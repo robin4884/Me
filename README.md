@@ -29,8 +29,6 @@
         <h1>Robin Pobanz-Pawlak</h1>
         <p><a class="email" href="mailto:rachellelpobanzpaw@lewisu.edu">Send Email</a></p>
         <p>SourPatchEngginers</p>
-        <img src="![ME Photo](https://github.com/robin4884/Me/assets/157414236/644e5b84-7fb0-44f4-8a31-df5ee88828ac)" alt="Trulli" width="500" height="333">
-   </div>
     <div class="section">
         <h2>Introduction</h2>
         <p>I'm Robin Pobanz-Pawlak. My family are my friend and always will be. My major is Computer Science and I hope to in the future major in Mechanical Engineering also so I can pursue a career in robotics and AI.</p>
