@@ -37,21 +37,22 @@
     <div class="section">
         <h2>What I Hope to Learn in this Course</h2>
         <ul>
-            <li>Data structures and algorithms</li>
-            <li>Web development</li>
-            <li>Machine learning</li>
+            <li>a proper understanding of how coding works in all magenerie</li>
+            <li>the fundimentals of difrent codes</li>
+            <li>How to code a websight</li>
         </ul>
     </div>
     <div class="section">
         <h2>My Favorite Hobby / Activity</h2>
         <ul>
-            <li><a href="https://example.com/hobby1">Playing the guitar</a></li>
+             <p>Skating around my town and watching videos about skating. My favoret board is my Landyachtz cruser board, photos bellow. Also ellow is a link to a video of Landychtz doin what I do and thats just messs around skating around town. </p>
+            <li><a href="https://youtu.be/_4H4Gjm9G7g?feature=shared">Playing the guitar</a></li>
             <li><a href="https://example.com/hobby2">Hiking</a></li>
         </ul>
     </div>
     <div class="section">
         <h2>Fun Fact</h2>
-        <p>I once traveled across Europe by train in a single month.</p>
+        <p>I almost inpained my ancle with a medle bed fraim in the 7th grade</p>
     </div>
 </body>
 </html>
