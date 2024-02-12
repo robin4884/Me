@@ -27,31 +27,31 @@
 <body>
     <div class="header">
         <h1>Robin Pobanz-Pawlak</h1>
-        <p><a class="email" href="rachellelpobanzpaw@lewisu.edu">Send Email</a></p>
+        <p><a class="email" href="mailto:rachellelpobanzpaw@lewisu.edu">Send Email</a></p>
         <p>SourPatchEngginers</p>
    </div>
     <div class="section">
         <h2>Introduction</h2>
-        <p>I'm Robin Pobanz-Pawlak. My family are my friend and always will be. My major is Computer Science and I hope to in the feuter major in Micanical enginering also so i can peruse a carer in robotics and Ai.</p>
+        <p>I'm Robin Pobanz-Pawlak. My family are my friend and always will be. My major is Computer Science and I hope to in the future major in Mechanical Engineering also so I can pursue a career in robotics and AI.</p>
     </div>
     <div class="section">
         <h2>What I Hope to Learn in this Course</h2>
         <ul>
-            <li>a proper understanding of how coding works in all magenerie</li>
-            <li>the fundimentals of difrent codes</li>
-            <li>How to code a websight</li>
+            <li>a proper understanding of how coding works in all machinery</li>
+            <li>the fundamentals of different codes</li>
+            <li>How to code a website</li>
         </ul>
     </div>
     <div class="section">
         <h2>My Favorite Hobby / Activity</h2>
         <ul>
-                <li><a href="https://youtu.be/_4H4Gjm9G7g?feature=shared"></a>Skating</li>
-                <li><a https://youtu.be/OmDYo7MbQxo?feature=shared"></a>Video Games</li>
-        <ul>
+            <li><a href="https://youtu.be/_4H4Gjm9G7g?feature=shared">Skating</a></li>
+            <li><a href="https://youtu.be/OmDYo7MbQxo?feature=shared">Video Games</a></li>
+        </ul>
     </div>
     <div class="section">
         <h2>Fun Fact</h2>
-        <p>I almost inpained my ancle with a medle bed fraim in the 7th grade</p>
+        <p>I almost injured my ankle with a metal bed frame in the 7th grade.</p>
     </div>
 </body>
 </html>
