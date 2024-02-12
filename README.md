@@ -45,15 +45,13 @@
     <div class="section">
         <h2>My Favorite Hobby / Activity</h2>
         <ul>
-            <p>Skating around my town and watching videos about skating. My favoret board is my Landyachtz cruser board, photos bellow. Also ellow is a link to a video of Landychtz doin what I do and thats just messs around skating around town. </p>
                 <li><a href="https://youtu.be/_4H4Gjm9G7g?feature=shared"></a>Skating</li>
-            <p>I love playing video games! weather that be assasins creed, Gensin Impact, Halo, Five nights at Freddys, and more. Bellow is a video of a video game I really want to purches soon. </p>
-                <li><a https://youtu.be/OmDYo7MbQxo?feature=shared">Video Games</a></li>
-        </ul>
+                <li><a https://youtu.be/OmDYo7MbQxo?feature=shared"></a>Video Games</li>
+        <ul>
     </div>
     <div class="section">
         <h2>Fun Fact</h2>
         <p>I almost inpained my ancle with a medle bed fraim in the 7th grade</p>
     </div>
 </body>
-</html>g
+</html>
