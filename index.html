@@ -31,7 +31,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>Robin Pobanz-Pawlak</h1>
+        <h1 id="name">Robin Pobanz-Pawlak</h1>
         <p><a class="email" href="mailto:rachellelpobanzpaw@lewisu.edu">Send Email</a></p>
         <p>SourPatchEngginers</p>
         <img src="ME%20Photo.jpg" alt="ME_Photo" width="173" height="308">
@@ -58,7 +58,13 @@
     <div class="section">
         <h2>Fun Fact</h2>
         <p>I almost injured my ankle with a metal bed frame in the 7th grade.</p>
-        <li>hello</li>
+
+    <script>
+        document.getElementById('name').addEventListener('click', function() {
+            this.style.color = '#FCEB7B';
+        });
+    </script>
+    
     </div>
 </body>
 </html>
